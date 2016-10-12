@@ -10,6 +10,9 @@
 2. CM3D2.ClockHUD.Plugin.cs を `Sybaris\Plugins\UnityInjector\AutoCompile` にコピーます。
 3. ゲームを起動します。
 
-## 変更履歴
+## 更新履歴
 * 1.0.0
   * 初版
+* 2.0.0
+  * GearMenu.csを組み込みギアからの有効／無効の切り替えができるようになりました。
+  * デフォルトでは「無効」になっています。
