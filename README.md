@@ -1,18 +1,21 @@
-# CM3D2.ClockHUD.Plugin
-現在の日付と時刻を表示するプラグインです。  
-フルスクリーンモードやタスクバーを隠している場合に時刻を確認することができます。  
-お好みでフォントサイズやフォントカラーを変更して使ってください。  
 
-## 使い方
+# CM3D2.ClockHUD.Plugin
+A plugin that displays the current date and time.
+You can check the time in full screen mode or when hiding the taskbar.
+Change the font size and font color as you like too.
+
+## How to use
 
 ### Sybaris (AutoCompile)
-1. Sybarisを導入します
-2. CM3D2.ClockHUD.Plugin.cs を `Sybaris\Plugins\UnityInjector\AutoCompile` にコピーます。
-3. ゲームを起動します。
+1. Download the DLL from the releases
+2. Throw it into Sybaris/Unityinjector/
+3. Profit!
 
-## 更新履歴
+## Change log
 * 1.0.0
-  * 初版
+  * First edition
 * 2.0.0
-  * GearMenu.csを組み込みギアからの有効／無効の切り替えができるようになりました。
-  * デフォルトでは「無効」になっています。
+  * GearMenu.cs can be enabled / disabled from built-in gear.
+  * "Disabled" by default
+  
+  Don't abuse your meidos!
