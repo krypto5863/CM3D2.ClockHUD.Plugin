@@ -10,15 +10,13 @@ using UnityEngine;
 using UnityInjector;
 using UnityInjector.Attributes;
 
-namespace CM3D2
+namespace COM3D2
 {
     namespace ClockHUD.Plugin
     {
 
         [
-            PluginFilter("CM3D2x64"),
-            PluginFilter("CM3D2x86"),
-            PluginName("ClockHUD"), PluginVersion("2.0.0")
+            PluginName("ClockHUD"), PluginVersion("2.0.1")
         ]
 
         public class ClockHUD : PluginBase
